@@ -55,7 +55,7 @@ border: solid 1px black;
 	position: absolute;
 	top: 560px;
     left: 1235px;
-	background-image: url(zdjecia/paz4.jpg);
+	background-image: url(zdjecia/paz4.JPG);
 	
 }
 .nails1{
@@ -65,7 +65,7 @@ border: solid 1px black;
 	position: absolute;
 	top: 32px;
     left: 740px;
-	background-image: url(zdjecia/nails1.jpg);
+	background-image: url(zdjecia/nails1.JPG);
 
 }
 .nails2{
@@ -75,7 +75,7 @@ border: solid 1px black;
 	position: absolute;
 	top: 32px;
     left: 1235px;
-	background-image: url(zdjecia/nails2.jpg);
+	background-image: url(zdjecia/nails2.JPG);
 	
 }
 .nails3{
@@ -85,7 +85,7 @@ border: solid 1px black;
 	position: absolute;
 	top: 560px;
     left: 740px;
-	background-image: url(zdjecia/nails3.jpg);
+	background-image: url(zdjecia/nails3.JPG);
 	
 }
 .nails4{
@@ -95,7 +95,7 @@ border: solid 1px black;
 	position: absolute;
 	top: 560px;
     left: 1235px;
-	background-image: url(zdjecia/nails4.png);
+	background-image: url(zdjecia/nails4.PNG);
 	
 }
 
@@ -138,7 +138,7 @@ border: solid 1px black;
 	
 }
 .terminy{
-	background-image: url(zdjecia/terminy.png);
+	background-image: url(zdjecia/terminy.PNG);
 	width: 960px;
 	height: 567px;
 	position: absolute;
